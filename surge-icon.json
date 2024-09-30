@@ -79,5 +79,12 @@
 	{"name": "OneDrive", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Drive/OneDrive.png" },
 	{"name": "PikPak", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Drive/PikPak.png" },
 	{"name": "Quark", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Drive/Quark.png" },
+	{"name": "Game1", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Game/Game(1).png" },
+	{"name": "Game2", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Game/Game(2).png" },
+	{"name": "PlayStation", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Game/PlayStation.png" },
+	{"name": "Steam1", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Game/Steam(1).png" },
+	{"name": "Steam2", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Game/Steam(2).png" },
+	{"name": "Twitch1", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Game/Twitch(1).png" },
+	{"name": "Twitch2", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Game/Twitch(2).png" },
   ]
 }
