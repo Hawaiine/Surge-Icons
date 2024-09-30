@@ -125,5 +125,11 @@
 	{"name": "Traffic6", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/General/Traffic(6).png" },
 	{"name": "URL1", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/General/URL(1).png" },
 	{"name": "URL2", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/General/URL(2).png" },
+	{"name": "Google1", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Google/Google(1).png" },
+	{"name": "Google2", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Google/Google(2).png" },
+	{"name": "Google3", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Google/Google(3).png" },
+	{"name": "GoogleDrive", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Google/GoogleDrive.png" },
+	{"name": "GoogleVoice1", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Google/GoogleVoice(1).png" },
+	{"name": "GoogleVoice2", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Google/GoogleVoice(2).png" },
   ]
 }
