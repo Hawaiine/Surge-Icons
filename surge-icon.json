@@ -131,5 +131,16 @@
 	{"name": "GoogleDrive", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Google/GoogleDrive.png" },
 	{"name": "GoogleVoice1", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Google/GoogleVoice(1).png" },
 	{"name": "GoogleVoice2", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Google/GoogleVoice(2).png" },
+	{"name": "Bing1", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Microsoft/Bing(1).png" },
+	{"name": "Bing2", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Microsoft/Bing(2).png" },
+	{"name": "Bing3", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Microsoft/Bing(3).png" },
+	{"name": "Bing4", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Microsoft/Bing(4).png" },
+	{"name": "Copilot1", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Microsoft/Copilot(1).png" },
+	{"name": "Copilot2", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Microsoft/Copilot(2).png" },
+	{"name": "Microsoft1", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Microsoft/Microsoft(1).png" },
+	{"name": "Microsoft2", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Microsoft/Microsoft(2).png" },
+	{"name": "Microsoft3", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Microsoft/Microsoft(3).png" },
+	{"name": "Microsoft4", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Microsoft/Microsoft(4).png" },
+	{"name": "OneDrive", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Microsoft/OneDrive.png" },
   ]
 }
