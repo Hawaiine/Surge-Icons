@@ -274,5 +274,19 @@
 	{"name": "ChinaUnicom2", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Telecom/ChinaUnicom(2).png" },
 	{"name": "ChinaTelecom1", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Telecom/ChinaTelecom(1).png" },
 	{"name": "ChinaTelecom2", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Telecom/ChinaTelecom(2).png" },
+	{"name": "1Password", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Tool/1Password.png" },
+	{"name": "AdGuard", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Tool/AdGuard.png" },
+	{"name": "Cloudflare", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Tool/Cloudflare.png" },
+	{"name": "Duolingguo1", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Tool/Duolingguo(1).png" },
+	{"name": "Duolingguo2", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Tool/Duolingguo(2).png" },
+	{"name": "Github1", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Tool/Github(1).png" },
+	{"name": "Github2", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Tool/Github(2).png" },
+	{"name": "Keep", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Tool/Keep.png" },
+	{"name": "Notion", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Tool/Notion.png" },
+	{"name": "Oracle", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Tool/Oracle.png" },
+	{"name": "SF-Express", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Tool/SF-Express.png" },
+	{"name": "Speedtest1", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Tool/Speedtest(1).png" },
+	{"name": "Speedtest2", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Tool/Speedtest(2).png" },
+	{"name": "TMDB", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Tool/TMDB.png" }
   ]
 }
