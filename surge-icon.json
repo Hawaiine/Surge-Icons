@@ -155,5 +155,15 @@
 	{"name": "PayPal2", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Payment/PayPal(2).png" },
 	{"name": "PayPal3", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Payment/PayPal(3).png" },
 	{"name": "S.W.I.F.T", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Payment/SWIFT.png" },
+	{"name": "Alibaba", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Shopping/Alibaba.png" },
+	{"name": "Amazon", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Shopping/Amazon.png" },
+	{"name": "JD1", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Shopping/JD(1).png" },
+	{"name": "JD2", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Shopping/JD(2).png" },
+	{"name": "JD3", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Shopping/JD(3).png" },
+	{"name": "Meituan1", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Shopping/Meituan(1).png" },
+	{"name": "Meituan2", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Shopping/Meituan(2).png" },
+	{"name": "Pinduoduo", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Shopping/Pinduoduo.png" },
+	{"name": "Taobao1", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Shopping/Taobao(1).png" },
+	{"name": "Taobao2", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Shopping/Taobao(2).png" },
   ]
 }
