@@ -267,5 +267,12 @@
 	{"name": "Surge13", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Surge/SURGE(13).png" },
 	{"name": "Surge14", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Surge/SURGE(14).png" },
 	{"name": "Surge15", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Surge/SURGE(15).png" },
+	{"name": "ChinaBroadnet", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Telecom/ChinaBroadnet.png" },
+	{"name": "ChinaMobile1", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Telecom/ChinaMobile(1).png" },
+	{"name": "ChinaMobile2", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Telecom/ChinaMobile(2).png" },
+	{"name": "ChinaUnicom1", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Telecom/ChinaUnicom(1).png" },
+	{"name": "ChinaUnicom2", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Telecom/ChinaUnicom(2).png" },
+	{"name": "ChinaTelecom1", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Telecom/ChinaTelecom(1).png" },
+	{"name": "ChinaTelecom2", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Telecom/ChinaTelecom(2).png" },
   ]
 }
