@@ -147,5 +147,13 @@
 	{"name": "Spotify1", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Music/Spotify(1).png" },
 	{"name": "Spotify2", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Music/Spotify(2).png" },
 	{"name": "Spotify3", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Music/Spotify(3).png" },
+	{"name": "AliPay", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Payment/AliPay.png" },
+	{"name": "BiAn", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Payment/BiAn.png" },
+	{"name": "OKX1", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Payment/OKX(1).png" },
+	{"name": "OKX2", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Payment/OKX(2).png" },
+	{"name": "PayPal1", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Payment/PayPal(1).png" },
+	{"name": "PayPal2", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Payment/PayPal(2).png" },
+	{"name": "PayPal3", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Payment/PayPal(3).png" },
+	{"name": "S.W.I.F.T", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Payment/SWIFT.png" },
   ]
 }
