@@ -67,5 +67,17 @@
 	{"name": "US1", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Country/US(1).png" },
 	{"name": "US2", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Country/US(2).png" },
 	{"name": "US", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Country/US.png" },
+	{"name": "115", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Drive/115.png" },
+	{"name": "123", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Drive/123.png" },
+	{"name": "189", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Drive/189.png" },
+	{"name": "AliCloud1", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Drive/AliCloud(1).png" },
+	{"name": "AliCloud2", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Drive/AliCloud(2).png" },
+	{"name": "BaiduNetDisk", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Drive/BaiduNetDisk.png" },
+	{"name": "ChinaMobileDisk", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Drive/ChinaMobileDisk.png" },
+	{"name": "Dropbox1", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Drive/Dropbox(1).png" },
+	{"name": "Dropbox2", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Drive/Dropbox(2).png" },
+	{"name": "OneDrive", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Drive/OneDrive.png" },
+	{"name": "PikPak", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Drive/PikPak.png" },
+	{"name": "Quark", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Drive/Quark.png" },
   ]
 }
