@@ -142,5 +142,10 @@
 	{"name": "Microsoft3", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Microsoft/Microsoft(3).png" },
 	{"name": "Microsoft4", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Microsoft/Microsoft(4).png" },
 	{"name": "OneDrive", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Microsoft/OneDrive.png" },
+	{"name": "NeteaseMusic1", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Music/NeteaseMusic(1).png" },
+	{"name": "NeteaseMusic2", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Music/NeteaseMusic(2).png" },
+	{"name": "Spotify1", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Music/Spotify(1).png" },
+	{"name": "Spotify2", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Music/Spotify(2).png" },
+	{"name": "Spotify3", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/Music/Spotify(3).png" },
   ]
 }
