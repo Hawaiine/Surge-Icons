@@ -2,6 +2,7 @@
   "name": "Surge Icon",
   "description": "Surge 图标配置 json 文件",
   "icons": [
+	{"name": "AI", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/AI/AI.png" },
 	{"name": "ChatGPT1", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/AI/ChatGPT(1).png" },
 	{"name": "ChatGPT2", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/AI/ChatGPT(2).png" },
 	{"name": "ChatGPT3", "url": "https://raw.githubusercontent.com/Hawaiine/Surge-Icons/refs/heads/release/AI/ChatGPT(3).png" },
